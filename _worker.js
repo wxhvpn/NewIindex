@@ -8,9 +8,9 @@ var CFG = {
   id: "f28efe0e-3b9b-4e67-ac37-b10038656627",
   // 构建时替换为随机 UUID（标准 36 位带连字符）
   // ─── 面板安全 ───
-  panelKey: "hv45yrf4",
+  panelKey: "newiindex",
   // 关卡 1：路由暗号，构建时替换为 8 位随机串
-  panelPin: "8ub7gm2n",
+  panelPin: "newiindex",
   // 关卡 2：解锁 PIN，构建时替换为 8 位随机串
   // ─── 协议 ───
   maxED: 8 * 1024,
